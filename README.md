@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soschuetze
-- 👀 I’m interested in data science, specifically regarding the intersection of econometric data analysis and public policy. 
-- 🌱 I’m currently learning about Twitter's relationship with the BLM movement in preparation for my thesis project that explores the different modes
-     of protest during the BLM movement and how tweets refelct those. 
+- 👀 I’m interested in data science, specifically the use of alternative data and NLP techniques for business application purposes. 
+- 🌱 I’m currently learning about the use of machine learning in improving underwriting operations as a data science intern at Mercury Insurance.
 - 📫 How to reach me: message me on LinkedIn! https://www.linkedin.com/in/sinclaireschuetze/
 
 <!---
