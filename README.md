@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soschuetze
-- 👀 I’m interested in data science, specifically the use of alternative data and NLP techniques for business application purposes. 
-- 🌱 I’m currently learning about the use of machine learning in improving underwriting operations as a data science intern at Mercury Insurance.
+- 👀 I’m interested in data science, specifically the use of alternative data, NLP, and network analysis techniques for business application purposes. 
+- 🌱 I’m currently learning about the use of graph neural networks for counterfactual modeling of Brexit through internal trade data to analyze the impact on GDP growth of the policy announcement and implementation.
 - 📫 How to reach me: message me on LinkedIn! https://www.linkedin.com/in/sinclaireschuetze/
 
 <!---
