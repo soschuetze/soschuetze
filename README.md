@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soschuetze
-- 👀 I’m interested in data science, specifically the use of alternative data, NLP, and network analysis techniques for business application purposes. 
-- 🌱 I’m currently working on my master's thesis which focuses on implementing a siamese GNN for change-point detection of economic crises within the international trade network.
+- 👀 I’m interested in data science, specifically the use of advanced machine learning algorithms for improving efficiency of government processes and public policy. 
+- 🌱 I’m currently working at the Stanford RegLab improving the IRS's auditing of complex partnerships using graph machine learning.
 - 📫 How to reach me: message me on LinkedIn! https://www.linkedin.com/in/sinclaireschuetze/
 
 <!---
